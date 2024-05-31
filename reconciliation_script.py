@@ -112,8 +112,8 @@ if __name__ == "__main__":
     directory2 = r"K:\Python\RPA\File_Reconciliation\EMSmart"  # EMSmart directory
     report_file = "reconciliation_report.xlsx"
     recipient_email = "ameer.hasan@emsmc.com"
-    sender_email = "engamermecha@gmail.com"  # Update with your Gmail address
-    sender_password = "$@Saralydia1986$#"  # Update with your Gmail password
+    sender_email = "user email"  # Update with your Gmail address
+    sender_password = "email password"  # Update with your Gmail password
     smtp_server = "smtp.gmail.com"
     smtp_port = 465
 
